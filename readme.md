@@ -1,1 +1,1 @@
-My name is Kelly Smith and I am new to Githum. 
+My name is Kelly Smith and I am new to Github. 
